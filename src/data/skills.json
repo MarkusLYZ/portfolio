@@ -8,7 +8,7 @@
       "imageSrc": "skills/python.png"
     },
     {
-      "title": "React",
+      "title": "React Native",
       "imageSrc": "skills/react.png"
     },
     {
@@ -26,5 +26,12 @@
     {
       "title": "FastAPI",
       "imageSrc": "skills/fastAPI.png"
+    },{
+      "title": "Expo",
+      "imageSrc": "skills/expo.png"
+    },
+    {
+      "title": "Firebase",
+      "imageSrc": "skills/firebase.png"
     }
   ]
