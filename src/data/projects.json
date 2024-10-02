@@ -10,15 +10,15 @@
     {
       "title": "Pizza Ordering Application",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "This is a Pizza menu app made to learn about Flutter and Firebase",
       "skills": ["Flutter", "Firebase"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
     },
     {
-      "title": "Project C",
+      "title": "Aora",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "This is a Youtube mock-up Application made to learn React Native.",
       "skills": ["React Native", "Expo"],
       "demo": "https://www.example.com",
       "source": "https://www.github.com"
