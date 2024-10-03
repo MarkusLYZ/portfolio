@@ -4,8 +4,7 @@
       "imageSrc": "projects/project.png",
       "description": "This is a project made for vessel owners to monitor the location and view the live/past feed of the vessels.",
       "skills": ["Flutter", "Python", "FastAPI"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "https://www.example.com"
     },
     {
       "title": "Pizza Ordering Application",
@@ -13,7 +12,7 @@
       "description": "This is a Pizza menu app made to learn about Flutter and Firebase",
       "skills": ["Flutter", "Firebase"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/MarkusLYZ/pizzaApp"
     },
     {
       "title": "Aora",
@@ -21,6 +20,6 @@
       "description": "This is a Youtube mock-up Application made to learn React Native.",
       "skills": ["React Native", "Expo"],
       "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "source": "https://github.com/MarkusLYZ/react-native-video"
     }
   ]
