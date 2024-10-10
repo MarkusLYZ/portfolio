@@ -1,14 +1,14 @@
 [
     {
       "title": "Vessel Monitoring Application",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/vesselCoverImage.png",
       "description": "This is a project made for vessel owners to monitor the location and view the live/past feed of the vessels.",
-      "skills": ["Flutter", "Python", "FastAPI"],
+      "skills": ["Flutter", "Python", "FastAPI", "MySQL"],
       "demo": "https://www.example.com"
     },
     {
       "title": "Pizza Ordering Application",
-      "imageSrc": "projects/project.png",
+      "imageSrc": "projects/pizzaCoverImage.png",
       "description": "This is a Pizza menu app made to learn about Flutter and Firebase",
       "skills": ["Flutter", "Firebase"],
       "demo": "https://www.example.com",
@@ -16,8 +16,8 @@
     },
     {
       "title": "Aora",
-      "imageSrc": "projects/project.png",
-      "description": "This is a Youtube mock-up Application made to learn React Native.",
+      "imageSrc": "projects/aiCoverImage.png",
+      "description": "This is a AI video Application which allows watching and uploading made to learn React Native.",
       "skills": ["React Native", "Expo"],
       "demo": "https://www.example.com",
       "source": "https://github.com/MarkusLYZ/react-native-video"

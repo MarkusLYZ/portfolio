@@ -8,6 +8,7 @@ export const Contact = () => {
       <div className={styles.text}>
         <h2>Contact</h2>
         <p>Feel free to reach out!</p>
+        <p>+65 92427987</p>
       </div>
       <ul className={styles.links}>
         <li className={styles.link}>
