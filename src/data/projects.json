@@ -1,25 +1,33 @@
 [
-    {
-      "title": "Vessel Monitoring Application",
-      "imageSrc": "projects/vesselCoverImage.png",
-      "description": "This is a project made for vessel owners to monitor the location and view the live/past feed of the vessels.",
-      "skills": ["Flutter", "Python", "FastAPI", "MySQL"],
-      "demo": "https://www.example.com"
-    },
-    {
-      "title": "Pizza Ordering Application",
-      "imageSrc": "projects/pizzaCoverImage.png",
-      "description": "This is a Pizza menu app made to learn about Flutter and Firebase",
-      "skills": ["Flutter", "Firebase"],
-      "demo": "https://www.example.com",
-      "source": "https://github.com/MarkusLYZ/pizzaApp"
-    },
-    {
-      "title": "Aora",
-      "imageSrc": "projects/aiCoverImage.png",
-      "description": "This is a AI video Application which allows watching and uploading made to learn React Native.",
-      "skills": ["React Native", "Expo"],
-      "demo": "https://www.example.com",
-      "source": "https://github.com/MarkusLYZ/react-native-video"
-    }
-  ]
+  {
+    "title": "Vessel Monitoring Application",
+    "imageSrc": "projects/vesselCoverImage.png",
+    "description": "This is a project made for vessel owners to monitor the location and view the live/past feed of the vessels.",
+    "skills": ["Flutter", "Python", "FastAPI", "MySQL"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "Pizza Ordering Application",
+    "imageSrc": "projects/pizzaCoverImage.png",
+    "description": "This is a Pizza menu app made to learn about Flutter and Firebase.",
+    "skills": ["Flutter", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/MarkusLYZ/pizzaApp"
+  },
+  {
+    "title": "Aora",
+    "imageSrc": "projects/aiCoverImage.png",
+    "description": "This is a AI video Application which allows watching and uploading made to learn React Native development.",
+    "skills": ["React Native", "Expo", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/MarkusLYZ/react-native-video"
+  },
+  {
+    "title": "Pet Adoption Application",
+    "imageSrc": "projects/petAdopt.png",
+    "description": "This is a pet adoption app with features like google login, adding and managing post, favoriting pets and live chat, it is made to learn React Native development.",
+    "skills": ["React Native", "Expo", "Clerk", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/MarkusLYZ/react-native-video"
+  }
+]
