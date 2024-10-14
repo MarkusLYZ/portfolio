@@ -28,6 +28,6 @@
     "description": "This is a pet adoption app with features like google login, adding and managing post, favoriting pets and live chat, it is made to learn React Native development.",
     "skills": ["React Native", "Expo", "Clerk", "Firebase"],
     "demo": "https://www.example.com",
-    "source": "https://github.com/MarkusLYZ/react-native-video"
+    "source": "https://github.com/MarkusLYZ/petAdoptionApp"
   }
 ]
