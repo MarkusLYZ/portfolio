@@ -7,14 +7,6 @@
     "demo": "https://www.example.com"
   },
   {
-    "title": "Pizza Ordering Application",
-    "imageSrc": "projects/pizzaCoverImage.png",
-    "description": "This is a Pizza menu app made to learn about Flutter and Firebase.",
-    "skills": ["Flutter", "Firebase"],
-    "demo": "https://www.example.com",
-    "source": "https://github.com/MarkusLYZ/pizzaApp"
-  },
-  {
     "title": "Aora",
     "imageSrc": "projects/aiCoverImage.png",
     "description": "This is a AI video Application which allows watching and uploading made to learn React Native development.",
@@ -29,5 +21,13 @@
     "skills": ["React Native", "Expo", "Clerk", "Firebase"],
     "demo": "https://www.example.com",
     "source": "https://github.com/MarkusLYZ/petAdoptionApp"
+  },
+  {
+    "title": "Pizza Ordering Application",
+    "imageSrc": "projects/pizzaCoverImage.png",
+    "description": "This is a Pizza menu app made to learn about Flutter and Firebase.",
+    "skills": ["Flutter", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/MarkusLYZ/pizzaApp"
   }
 ]
