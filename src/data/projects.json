@@ -10,8 +10,8 @@
     "title": "Aora",
     "imageSrc": "projects/aiCoverImage.png",
     "description": "This is a AI video Application which allows watching and uploading made to learn React Native development.",
-    "skills": ["React Native", "Expo", "Firebase"],
-    "demo": "https://www.example.com",
+    "skills": ["React Native", "Expo", "AppWrite"],
+    "demo": "https://youtu.be/agPLZN6oYKI",
     "source": "https://github.com/MarkusLYZ/react-native-video"
   },
   {
@@ -19,7 +19,7 @@
     "imageSrc": "projects/petAdopt.png",
     "description": "This is a pet adoption app with features like google login, adding and managing post, favoriting pets and live chat, it is made to learn React Native development.",
     "skills": ["React Native", "Expo", "Clerk", "Firebase"],
-    "demo": "https://www.example.com",
+    "demo": "https://youtu.be/pX3Ko-29DkY",
     "source": "https://github.com/MarkusLYZ/petAdoptionApp"
   },
   {
