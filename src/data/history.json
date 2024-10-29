@@ -1,10 +1,13 @@
 [
-    {
-      "role": "Software Engineer",
-      "organisation": "Chuan-fa Auto Pte Ltd",
-      "startDate": "May, 2022",
-      "endDate": "Dec, 2022",
-      "experiences": ["Developed Vessel Monitoring Application", "Transferred from local server to AWS"],
-      "imageSrc": "history/chuanfaLogo.png"
-    }
-  ]
+  {
+    "role": "Software Engineer",
+    "organisation": "Chuan-fa Auto Pte Ltd",
+    "startDate": "May, 2022",
+    "endDate": "Dec, 2022",
+    "experiences": [
+      "Developed Vessel Monitoring Application using Flutter, Python, MySQL",
+      "Transferred from local server to AWS"
+    ],
+    "imageSrc": "history/chuanfaLogo.png"
+  }
+]
